@@ -41,8 +41,8 @@ class Program
     {
         Math calculator = new Math();
 
-        double num1 = 5;
-        double num2 = 12;
+        double num1 = 10;
+        double num2 = 15;
 
         Console.WriteLine($"Сумма: {calculator.Add(num1, num2)}");
         Console.WriteLine($"Разность: {calculator.Subtract(num1, num2)}");
