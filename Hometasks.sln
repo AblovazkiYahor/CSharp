@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask10_Soda", "HomeTask
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask13_Sphere", "HomeTask13_Sphere\HomeTask13_Sphere.csproj", "{FB02F8B2-BBB3-402E-BA32-8FC9541F2912}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlnaya_Task_1", "Controlnaya_Task_1\Controlnaya_Task_1.csproj", "{04ECF515-95FE-4C5C-B13A-5ABA0C711258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FB02F8B2-BBB3-402E-BA32-8FC9541F2912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB02F8B2-BBB3-402E-BA32-8FC9541F2912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB02F8B2-BBB3-402E-BA32-8FC9541F2912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
