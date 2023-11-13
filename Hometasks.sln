@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask13_Sphere", "HomeTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlnaya_Task_1", "Controlnaya_Task_1\Controlnaya_Task_1.csproj", "{04ECF515-95FE-4C5C-B13A-5ABA0C711258}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlnaya_Task_2", "Controlnaya_Task_2\Controlnaya_Task_2.csproj", "{EAE05694-813F-44D9-9CE0-8D40A2A456EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04ECF515-95FE-4C5C-B13A-5ABA0C711258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE05694-813F-44D9-9CE0-8D40A2A456EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE05694-813F-44D9-9CE0-8D40A2A456EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE05694-813F-44D9-9CE0-8D40A2A456EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE05694-813F-44D9-9CE0-8D40A2A456EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
