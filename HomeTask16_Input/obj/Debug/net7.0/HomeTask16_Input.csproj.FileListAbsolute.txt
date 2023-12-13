@@ -1,0 +1,15 @@
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/bin/Debug/net7.0/HomeTask16_Input
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/bin/Debug/net7.0/HomeTask16_Input.deps.json
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/bin/Debug/net7.0/HomeTask16_Input.runtimeconfig.json
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/bin/Debug/net7.0/HomeTask16_Input.dll
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/bin/Debug/net7.0/HomeTask16_Input.pdb
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.csproj.AssemblyReference.cache
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.AssemblyInfoInputs.cache
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.AssemblyInfo.cs
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.dll
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/refint/HomeTask16_Input.dll
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.pdb
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/HomeTask16_Input.genruntimeconfig.cache
+/Users/admin/Projects/HomeTask16_Input/HomeTask16_Input/obj/Debug/net7.0/ref/HomeTask16_Input.dll
