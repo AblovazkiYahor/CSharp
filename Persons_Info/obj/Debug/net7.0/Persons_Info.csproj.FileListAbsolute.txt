@@ -1,0 +1,17 @@
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.csproj.AssemblyReference.cache
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.AssemblyInfoInputs.cache
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.AssemblyInfo.cs
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Persons_Info/Persons_Info/bin/Debug/net7.0/Persons_Info
+/Users/admin/Projects/Persons_Info/Persons_Info/bin/Debug/net7.0/Persons_Info.deps.json
+/Users/admin/Projects/Persons_Info/Persons_Info/bin/Debug/net7.0/Persons_Info.runtimeconfig.json
+/Users/admin/Projects/Persons_Info/Persons_Info/bin/Debug/net7.0/Persons_Info.dll
+/Users/admin/Projects/Persons_Info/Persons_Info/bin/Debug/net7.0/Persons_Info.pdb
+/Users/admin/Projects/Persons_Info/Persons_Info/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.csproj.CopyComplete
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.dll
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/refint/Persons_Info.dll
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.pdb
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/Persons_Info.genruntimeconfig.cache
+/Users/admin/Projects/Persons_Info/Persons_Info/obj/Debug/net7.0/ref/Persons_Info.dll
