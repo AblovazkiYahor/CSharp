@@ -1,0 +1,15 @@
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.csproj.AssemblyReference.cache
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.AssemblyInfoInputs.cache
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.AssemblyInfo.cs
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/bin/Debug/net7.0/HomeTask17_Forbidden_words
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/bin/Debug/net7.0/HomeTask17_Forbidden_words.deps.json
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/bin/Debug/net7.0/HomeTask17_Forbidden_words.runtimeconfig.json
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/bin/Debug/net7.0/HomeTask17_Forbidden_words.dll
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/bin/Debug/net7.0/HomeTask17_Forbidden_words.pdb
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.dll
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/refint/HomeTask17_Forbidden_words.dll
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.pdb
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/HomeTask17_Forbidden_words.genruntimeconfig.cache
+/Users/admin/Projects/HomeTask17_Forbidden_words/HomeTask17_Forbidden_words/obj/Debug/net7.0/ref/HomeTask17_Forbidden_words.dll
