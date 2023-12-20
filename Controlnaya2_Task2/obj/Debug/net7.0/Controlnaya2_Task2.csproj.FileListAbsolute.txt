@@ -1,0 +1,15 @@
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/bin/Debug/net7.0/Controlnaya2_Task2
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/bin/Debug/net7.0/Controlnaya2_Task2.deps.json
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/bin/Debug/net7.0/Controlnaya2_Task2.runtimeconfig.json
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/bin/Debug/net7.0/Controlnaya2_Task2.dll
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/bin/Debug/net7.0/Controlnaya2_Task2.pdb
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.csproj.AssemblyReference.cache
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.AssemblyInfoInputs.cache
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.AssemblyInfo.cs
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.dll
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/refint/Controlnaya2_Task2.dll
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.pdb
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/Controlnaya2_Task2.genruntimeconfig.cache
+/Users/admin/Projects/Controlnaya2_Task2/Controlnaya2_Task2/obj/Debug/net7.0/ref/Controlnaya2_Task2.dll
